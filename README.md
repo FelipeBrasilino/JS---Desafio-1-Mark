@@ -1,3 +1,3 @@
-# JS---Pong
+# JS---Desafio-1-Mark
 
-Simples Jogo Pong na linguagem JavaScript
+Desafios proposto pelo professor **Mark** na aula de Tecnologia e Robotica
